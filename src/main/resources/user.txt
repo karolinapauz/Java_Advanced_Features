@@ -1,0 +1,4 @@
+Mantas,21,176
+Tomas,24,189
+Lina,44,167
+Laura,36,178
